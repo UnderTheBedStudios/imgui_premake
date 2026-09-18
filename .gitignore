@@ -18,6 +18,10 @@ examples/*/Release/*
 examples/*/x64/*
 examples/*.tmp
 
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
 ## Visual Studio artifacts
 .vs
 ipch
